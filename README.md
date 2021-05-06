@@ -21,7 +21,8 @@ You must determine the following:
     5. What would you change in the password policy to make breaking the passwords harder? 
 ```
 
-I used [hashcat](https://hashcat.net/hashcat/) to crack the leaked passwords.
+I used [hashcat](https://hashcat.net/hashcat/) to crack the leaked passwords. <br />
+Wordlists were downloaded from https://hashcat.net/forum/thread-1236.html
 
 - [x] What type of hashing algorithm was used to protect passwords?
 - [x] What level of protection does the mechanism offer for passwords?
