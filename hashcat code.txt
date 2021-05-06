@@ -1,0 +1,1 @@
+hashcat -m 0 -a 0 C:\Users\Shashank\Desktop\hashcat-6.1.1\hash.txt C:\Users\Shashank\Desktop\hashcat-6.1.1\wordlists
